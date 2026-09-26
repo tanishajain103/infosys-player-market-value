@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+req.txt
+.streamlit/secrets.toml
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
